@@ -1,0 +1,1 @@
+import{d as t,c as o,o as r}from"./index-a564df51.js";const c={class:"markdown-body"},_={},m="",d=t({__name:"article2",setup(n,{expose:e}){return e({frontmatter:{},excerpt:void 0}),(s,a)=>(r(),o("div",c))}});export{d as default,m as excerpt,_ as frontmatter};
